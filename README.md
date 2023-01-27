@@ -4,7 +4,7 @@ Cucumber project version 1
 ## Overview :
 
 In this project I have done the test automation using cucumber framework the web application mentioned below,
-I have mentioned the technologies used to build the project below. I have attached the execution results in the results folder
+I have mentioned the technologies used to build the project below. I have attached the execution results in the results and evidence folder
 
 ## Technologies Used :
 
