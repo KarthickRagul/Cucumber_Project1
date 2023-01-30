@@ -14,8 +14,9 @@ Scenario: Unsuccessfull login with Locked customer details
   When The user enters the valid username "locked_out_user" and password "secret_sauce" and clicks login
   Then The error message should be displayed
 
+  @sanity
 Scenario: Successfull logout
-  Given The user is logged in with username "standard_user" and password "secret_sauce" and in the home page
+  Given The user is logged in with username "standrd_user" and password "secret_sauce" and in the home page
   When The user clicks on the hamburger button
   And The user Clicks logout
   Then The login page should be displayed
